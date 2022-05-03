@@ -1,0 +1,16 @@
+.i1, .i2, .i3, .i4, .i5{
+    width: 20px;
+    height: 15px;
+    text-decoration: none;
+}
+
+li{
+    background-color: bisque;
+    font-size: 15px;
+    float: left;
+    padding: 10px;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
